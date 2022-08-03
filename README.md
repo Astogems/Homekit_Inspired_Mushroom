@@ -14,7 +14,7 @@ See line 164 for the tap_action, notice how on each press, it updates the input_
 
 Now hopefully you understood the logic, look at line 232 and replace the states with whatever you have created. Remember to add the entity_id on line 233 as well.
 
-From the Living Room Accordian, take a look at Line 443, there is an entity ID, you have to input a input_boolean.expand_livingroom.
+For the Living Room Accordian, take a look at Line 443, there is an entity ID, you have to input a input_boolean.expand_livingroom.
 
 This will toggle the entity when you take on the title.
 
